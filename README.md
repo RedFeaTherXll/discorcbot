@@ -1,0 +1,2 @@
+# discorcbot
+dc bot waitpvp
